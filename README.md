@@ -11,6 +11,9 @@
 3. Compare the Triplets
     - [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
     - [Solution](./compare-the-triplets/solution.js)
+4. A Very Big Sum
+    - [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+    - [Solution](./a-very-big-sum/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
