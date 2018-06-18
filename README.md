@@ -5,6 +5,9 @@
 1. Solve Me First
     - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
     - [Solution](./solve-me-first/solution.js)
+2. Simple Array Sum
+    - [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+    - [Solution](./simple-array-sum/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
