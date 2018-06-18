@@ -8,6 +8,9 @@
 2. Simple Array Sum
     - [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)
     - [Solution](./simple-array-sum/solution.js)
+3. Compare the Triplets
+    - [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+    - [Solution](./compare-the-triplets/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
