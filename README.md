@@ -20,6 +20,9 @@
 6. Plus Minus
     - [Problem](https://www.hackerrank.com/challenges/plus-minus/problem)
     - [Solution](./plus-minus/solution.js)
+7. Arrays - DS
+    - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem)
+    - [Solution](./arrays-ds/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
