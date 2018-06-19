@@ -14,6 +14,9 @@
 4. A Very Big Sum
     - [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
     - [Solution](./a-very-big-sum/solution.js)
+5. Diagonal Difference
+    - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+    - [Solution](./diagonal-difference/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
