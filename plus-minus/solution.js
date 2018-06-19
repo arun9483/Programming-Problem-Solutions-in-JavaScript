@@ -56,4 +56,5 @@ function main() {
 
     const result = plusMinus(arr);
     ws.write(result + '\n');
+    ws.end();
 }
