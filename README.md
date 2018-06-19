@@ -17,6 +17,9 @@
 5. Diagonal Difference
     - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
     - [Solution](./diagonal-difference/solution.js)
+6. Plus Minus
+    - [Problem](https://www.hackerrank.com/challenges/plus-minus/problem)
+    - [Solution](./plus-minus/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
