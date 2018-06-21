@@ -29,6 +29,9 @@
 1. Day 0: Hello, World.
     - [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)
     - [Solution](./30-days-of-code/day-0-hello-world/solution.js)
-1. Day 1: Data Types
+2. Day 1: Data Types
     - [Problem](https://www.hackerrank.com/challenges/30-data-types/problem)
     - [Solution](./30-days-of-code/day-1-data-types/solution.js)
+3. Day 2: Operators
+    - [Problem](https://www.hackerrank.com/challenges/30-operators/problem)
+    - [Solution](./30-days-of-code/day-2-operators/solution.js)
