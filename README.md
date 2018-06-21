@@ -23,6 +23,9 @@
 7. Arrays - DS
     - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem)
     - [Solution](./arrays-ds/solution.js)
+8. 2D Array - DS
+    - [Problem](https://www.hackerrank.com/challenges/2d-array/problem)
+    - [Solution](./2-d-array-ds/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
