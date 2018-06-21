@@ -35,3 +35,6 @@
 3. Day 2: Operators
     - [Problem](https://www.hackerrank.com/challenges/30-operators/problem)
     - [Solution](./30-days-of-code/day-2-operators/solution.js)
+4. Day 3: Intro to Conditional Statements
+    - [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+    - [Solution](./30-days-of-code/day-3-intro-to-conditional-statements/solution.js)
