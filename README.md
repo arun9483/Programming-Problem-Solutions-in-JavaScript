@@ -29,6 +29,9 @@
 9. Dynamic Array
     - [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)
     - [Solution](./dynamic-array/solution.js)
+10. Left Rotation
+    - [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+    - [Solution](./left-rotation/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
