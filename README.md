@@ -47,3 +47,6 @@
 4. Day 3: Intro to Conditional Statements
     - [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
     - [Solution](./30-days-of-code/day-3-intro-to-conditional-statements/solution.js)
+5. Day 4: Class vs. Instance
+    - [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+    - [Solution](./30-days-of-code/day-4-class-vs-instance/solution.js)
