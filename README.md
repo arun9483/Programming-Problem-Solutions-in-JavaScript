@@ -32,6 +32,9 @@
 10. Left Rotation
     - [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem)
     - [Solution](./left-rotation/solution.js)
+11. **Sparse Arrays**: There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings.
+    - [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+    - [Solution](./sparse-arrays/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
