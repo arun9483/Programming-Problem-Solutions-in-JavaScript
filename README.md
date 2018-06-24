@@ -53,3 +53,6 @@
 5. Day 4: Class vs. Instance
     - [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
     - [Solution](./30-days-of-code/day-4-class-vs-instance/solution.js)
+6. Day 5: Loops
+    - [Problem](https://www.hackerrank.com/challenges/30-loops/problem)
+    - [Solution](./30-days-of-code/day-5-loops/solution.js)
