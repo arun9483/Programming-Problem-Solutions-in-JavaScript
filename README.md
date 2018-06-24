@@ -56,3 +56,6 @@
 6. Day 5: Loops
     - [Problem](https://www.hackerrank.com/challenges/30-loops/problem)
     - [Solution](./30-days-of-code/day-5-loops/solution.js)
+7. Day 6: Let's Review
+    - [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)
+    - [Solution](./30-days-of-code/day-6-lets-review/solution.js)
