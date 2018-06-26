@@ -35,6 +35,10 @@
 11. **Sparse Arrays**: There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings.
     - [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
     - [Solution](./sparse-arrays/solution.js)
+12. **Array Manipulation**: Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each of the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in your array.
+    - [Problem](https://www.hackerrank.com/challenges/crush/copy-from/76031562)
+    - [Solution](./array-manipulation/solution.js)
+    - [Solution Reference](https://www.geeksforgeeks.org/constant-time-range-add-operation-array/)
 
 ## Programming Problems: 30 Days of Code
 
