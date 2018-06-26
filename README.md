@@ -39,6 +39,9 @@
     - [Problem](https://www.hackerrank.com/challenges/crush/copy-from/76031562)
     - [Solution](./array-manipulation/solution.js)
     - [Solution Reference](https://www.geeksforgeeks.org/constant-time-range-add-operation-array/)
+13. **Print the Elements of a Linked List**: If you're new to linked lists, this is a great exercise for learning about them. Given a pointer to the head node of a linked list, print its elements in order, one element per line. If the head pointer is null (indicating the list is empty), don’t print anything.
+    - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+    - [Solution](./print-the-elements-of-a-linked-list/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
