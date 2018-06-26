@@ -66,3 +66,6 @@
 7. Day 6: Let's Review
     - [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)
     - [Solution](./30-days-of-code/day-6-lets-review/solution.js)
+8. Day 7: Arrays
+    - [Problem](https://www.hackerrank.com/challenges/30-arrays/problem)
+    - [Solution](./30-days-of-code/day-7-arrays/solution.js)
