@@ -48,8 +48,11 @@
     - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
     - [Solution](./print-the-elements-of-a-linked-list/solution.js)
 2. **Insert a Node at the Tail of a Linked List**: You are given the pointer to the head node of a linked list and an integer to add to the list. Create a new node with the given integer. Insert this node at the tail of the linked list and return the head node of the linked list formed after inserting this new node. The given head pointer may be null, meaning that the initial list is empty.
-    - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+    - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem/problem)
     - [Solution](./insert-a-node-at-the-tail-of-a-linked-list/solution.js)
+3. **Insert a node at the head of a linked list**: You’re given the pointer to the head node of a linked list and an integer to add to the list. Create a new node with the given integer, insert this node at the head of the linked list and return the new head node. The head pointer given may be null meaning that the initial list is empty.
+    - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)
+    - [Solution](./insert-a-node-at-the-head-of-a-linked-list/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
