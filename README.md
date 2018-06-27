@@ -2,6 +2,8 @@
 
 ## Programming Problems
 
+### Array Problems
+
 1. Solve Me First
     - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
     - [Solution](./solve-me-first/solution.js)
@@ -39,9 +41,15 @@
     - [Problem](https://www.hackerrank.com/challenges/crush/copy-from/76031562)
     - [Solution](./array-manipulation/solution.js)
     - [Solution Reference](https://www.geeksforgeeks.org/constant-time-range-add-operation-array/)
-13. **Print the Elements of a Linked List**: If you're new to linked lists, this is a great exercise for learning about them. Given a pointer to the head node of a linked list, print its elements in order, one element per line. If the head pointer is null (indicating the list is empty), don’t print anything.
+
+### Linked List Problems
+
+1. **Print the Elements of a Linked List**: If you're new to linked lists, this is a great exercise for learning about them. Given a pointer to the head node of a linked list, print its elements in order, one element per line. If the head pointer is null (indicating the list is empty), don’t print anything.
     - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
     - [Solution](./print-the-elements-of-a-linked-list/solution.js)
+2. **Insert a Node at the Tail of a Linked List**: You are given the pointer to the head node of a linked list and an integer to add to the list. Create a new node with the given integer. Insert this node at the tail of the linked list and return the head node of the linked list formed after inserting this new node. The given head pointer may be null, meaning that the initial list is empty.
+    - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+    - [Solution](./insert-a-node-at-the-tail-of-a-linked-list/solution.js)
 
 ## Programming Problems: 30 Days of Code
 
