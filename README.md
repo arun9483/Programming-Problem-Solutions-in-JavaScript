@@ -72,3 +72,6 @@
 9. Day 8: Dictionaries and Maps
     - [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
     - [Solution](./30-days-of-code/day-8-dictionaries-and-maps/solution.js)
+10. Day 9: Recursion 3
+    - [Problem](https://www.hackerrank.com/challenges/30-recursion/problem)
+    - [Solution](./30-days-of-code/day-9-recursion-3/solution.js)
