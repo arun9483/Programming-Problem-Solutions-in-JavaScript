@@ -91,3 +91,6 @@
 10. Day 9: Recursion 3
     - [Problem](https://www.hackerrank.com/challenges/30-recursion/problem)
     - [Solution](./30-days-of-code/day-9-recursion-3/solution.js)
+11. Day 10: Binary Numbers
+    - [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+    - [Solution](./30-days-of-code/day-10-binary-numbers/solution.js)
