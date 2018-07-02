@@ -97,3 +97,6 @@
 12. Day 11: 2D Arrays
     - [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
     - [Solution](./30-days-of-code/day-11-2d-arrays/solution.js)
+13. Day 12: Inheritance
+    - [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)
+    - [Solution](./30-days-of-code/day-12-inheritance/solution.js)
