@@ -100,3 +100,6 @@
 13. Day 12: Inheritance
     - [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)
     - [Solution](./30-days-of-code/day-12-inheritance/solution.js)
+14. Day 13: Abstract Classes
+    - [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+    - [Solution](./30-days-of-code/day-13-abstract-classes/solution.js)
