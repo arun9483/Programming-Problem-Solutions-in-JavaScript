@@ -94,3 +94,6 @@
 11. Day 10: Binary Numbers
     - [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
     - [Solution](./30-days-of-code/day-10-binary-numbers/solution.js)
+12. Day 11: 2D Arrays
+    - [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+    - [Solution](./30-days-of-code/day-11-2d-arrays/solution.js)
