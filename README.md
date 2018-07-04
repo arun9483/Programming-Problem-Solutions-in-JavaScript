@@ -103,3 +103,7 @@
 14. Day 13: Abstract Classes
     - [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
     - [Solution](./30-days-of-code/day-13-abstract-classes/solution.js)
+15. Day 14: Scope
+    - [Problem](https://www.hackerrank.com/challenges/30-scope/problem)
+    - [Solution](./30-days-of-code/day-14-Scope/solution.js) **This solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
+    - [Solution](./30-days-of-code/day-14-Scope/solution.cpp) **This solution (in C++) is submitted in online judge**
