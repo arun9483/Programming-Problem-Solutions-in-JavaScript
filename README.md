@@ -107,3 +107,6 @@
     - [Problem](https://www.hackerrank.com/challenges/30-scope/problem)
     - [Solution](./30-days-of-code/day-14-Scope/solution.js) **This solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
     - [Solution](./30-days-of-code/day-14-Scope/solution.cpp) **This solution (in C++) is submitted in online judge**
+16. Day 15: Linked List
+    - [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)
+    - [Solution](./30-days-of-code/day-15-linked-list/solution.js)
