@@ -110,3 +110,6 @@
 16. Day 15: Linked List
     - [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)
     - [Solution](./30-days-of-code/day-15-linked-list/solution.js)
+17. Day 16: Exceptions - String to Integer
+    - [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+    - [Solution](./30-days-of-code/day-16-exceptions-string-to-integer/solution.js)
