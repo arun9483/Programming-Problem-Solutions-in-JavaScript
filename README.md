@@ -116,3 +116,6 @@
 18. Day 17: More Exceptions
     - [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
     - [Solution](./30-days-of-code/day-17-more-exceptions/solution.js)
+19. Day 18: Queues and Stacks
+    - [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+    - [Solution](./30-days-of-code/day-18-queues-and-stacks/solution.js)
