@@ -113,3 +113,6 @@
 17. Day 16: Exceptions - String to Integer
     - [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
     - [Solution](./30-days-of-code/day-16-exceptions-string-to-integer/solution.js)
+18. Day 17: More Exceptions
+    - [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
+    - [Solution](./30-days-of-code/day-17-more-exceptions/solution.js)
