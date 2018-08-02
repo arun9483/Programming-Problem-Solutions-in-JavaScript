@@ -119,3 +119,7 @@
 19. Day 18: Queues and Stacks
     - [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
     - [Solution](./30-days-of-code/day-18-queues-and-stacks/solution.js)
+20. Day 19: Interfaces
+    - [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem)
+    - [Solution](./30-days-of-code/day-19-interfaces/solution.js) **This solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
+    - [Solution](./30-days-of-code/day-19-interfaces/solution.cpp) **This solution (in C++) is submitted in online judge**
