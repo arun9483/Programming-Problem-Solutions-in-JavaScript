@@ -123,3 +123,6 @@
     - [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem)
     - [Solution](./30-days-of-code/day-19-interfaces/solution.js) **This solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
     - [Solution](./30-days-of-code/day-19-interfaces/solution.cpp) **This solution (in C++) is submitted in online judge**
+21. Day 20: Sorting
+    - [Problem](https://www.hackerrank.com/challenges/30-sorting/problem)
+    - [Solution](./30-days-of-code/day-20-sorting/solution.js)
