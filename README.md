@@ -133,3 +133,6 @@
 23. Day 22: Binary Search Trees
     - [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
     - [Solution](./30-days-of-code/day-22-binary-search-trees/solution.js)
+24. Day 23: BST Level-Order Traversal
+    - [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem)
+    - [Solution](./30-days-of-code/day-23-bst-level-order-traversal/solution.js)
