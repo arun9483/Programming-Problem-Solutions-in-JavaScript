@@ -130,3 +130,6 @@
     - [Problem](https://www.hackerrank.com/challenges/30-generics/problem)
     - [Solution](./30-days-of-code/day-21-generics/solution.js) **This solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
     - [Solution](./30-days-of-code/day-21-generics/solution.cpp) **This solution (in C++) is submitted in online judge**
+23. Day 22: Binary Search Trees
+    - [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+    - [Solution](./30-days-of-code/day-22-binary-search-trees/solution.js)
