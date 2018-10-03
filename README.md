@@ -136,3 +136,6 @@
 24. Day 23: BST Level-Order Traversal
     - [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem)
     - [Solution](./30-days-of-code/day-23-bst-level-order-traversal/solution.js)
+25. Day 24: More Linked Lists
+    - [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+    - [Solution](./30-days-of-code/day-24-more-linked-lists/solution.js)
