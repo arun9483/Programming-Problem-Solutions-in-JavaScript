@@ -139,3 +139,6 @@
 25. Day 24: More Linked Lists
     - [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
     - [Solution](./30-days-of-code/day-24-more-linked-lists/solution.js)
+26. Day 25: Running Time and Complexity
+    - [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+    - [Solution](./30-days-of-code/day-25-running-time-and-complexity/solution.js)
