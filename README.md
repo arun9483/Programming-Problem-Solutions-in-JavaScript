@@ -145,3 +145,6 @@
 27. Day 26: Nested Logic
     - [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem)
     - [Solution](./30-days-of-code/day-26-nested-logic/solution.js)
+28. Day 28: RegEx, Patterns, and Intro to Databases
+    - [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+    - [Solution](./30-days-of-code/day-28-regex-patterns-and-intro-to-databases/solution.js)
