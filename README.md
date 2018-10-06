@@ -142,3 +142,6 @@
 26. Day 25: Running Time and Complexity
     - [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
     - [Solution](./30-days-of-code/day-25-running-time-and-complexity/solution.js)
+27. Day 26: Nested Logic
+    - [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+    - [Solution](./30-days-of-code/day-26-nested-logic/solution.js)
