@@ -148,3 +148,6 @@
 28. Day 28: RegEx, Patterns, and Intro to Databases
     - [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
     - [Solution](./30-days-of-code/day-28-regex-patterns-and-intro-to-databases/solution.js)
+29. Day 29: Bitwise AND
+    - [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+    - [Solution](./30-days-of-code/day-29-bitwise-and/solution.js)
