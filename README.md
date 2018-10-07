@@ -145,9 +145,13 @@
 27. Day 26: Nested Logic
     - [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem)
     - [Solution](./30-days-of-code/day-26-nested-logic/solution.js)
-28. Day 28: RegEx, Patterns, and Intro to Databases
+28. Day 27: Testing
+    - [Problem](https://www.hackerrank.com/challenges/30-testing/problem)
+    - **Solution (in JavaScript) is not submitted in online judge portal because submission in JavaScript is disabled for this problem**
+    - [Solution](./30-days-of-code/day-27-testing/solution.cpp) **This solution (in C++) is submitted in online judge**
+29. Day 28: RegEx, Patterns, and Intro to Databases
     - [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
     - [Solution](./30-days-of-code/day-28-regex-patterns-and-intro-to-databases/solution.js)
-29. Day 29: Bitwise AND
+30. Day 29: Bitwise AND
     - [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
     - [Solution](./30-days-of-code/day-29-bitwise-and/solution.js)
